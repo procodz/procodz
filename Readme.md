@@ -1,14 +1,26 @@
 # Hi there 👋, I'm Raghvendra
 <br>
 
-## About Me
-- 🔭 I’m currently working on a full-stack smart AI agent based IRCTC ticket booking web app.
-- 🌱 I’m currently learning Langchain.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about JavaScript, React, and Node.js, python, RAG, AI agents.
-- 📫 How to reach me: [Email](techbite88@gmail.com) | [LinkedIn](www.linkedin.com/in/raghvendra88)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love travelling and photography!
+## About Me 👋
+
+Hi, I'm a passionate developer with a focus on building intelligent and user-friendly applications. I love exploring the intersection of AI and web development to create innovative solutions.
+
+- 🔭 **Currently Working On**: A full-stack smart AI agent-based IRCTC ticket booking web app.
+- 🌱 **Currently Learning**: Langchain to enhance my AI and NLP skills.
+- 👯 **Looking to Collaborate On**: Open-source projects, especially those involving AI, web development, or automation.
+- 💬 **Ask Me About**: 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat&logo=openai&logoColor=white)
+- 📫 **How to Reach Me**: 
+  - ✉️ [Email](mailto:techbite88@gmail.com)
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/raghvendra88)
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun Fact**: I love traveling and photography! Capturing moments and exploring new places fuels my creativity.
+
+**Let's connect and build something amazing together!** 🚀
 
 ## My Skills
 
@@ -25,6 +37,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=procodz&show_icons=true&theme=radical)
 
