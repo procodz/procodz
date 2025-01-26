@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Raghvendra
+<br>
 
 ## About Me
 - 🔭 I’m currently working on a full-stack smart AI agent based IRCTC ticket booking web app.
@@ -27,4 +28,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow)
 ![React](https://img.shields.io/badge/React-80%25-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-green)
-
+![Python](https://img.shields.io/badge/Python-85%25-blue)
