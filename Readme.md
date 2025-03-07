@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raghvendra's%20Code%20Universe&fontSize=50&animation=fadeIn&fontColor=F7DF1E" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Code%20Universe&fontSize=50&animation=fadeIn&fontColor=F7DF1E" alt="Header Banner" />
 </p>
 
 # Hey, I'm Raghvendra! 👋  
